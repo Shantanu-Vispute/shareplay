@@ -1,4 +1,3 @@
-```markdown
 # SharePlay
 
 SharePlay is a music streaming service that allows users to upload and stream music, enjoying their favorite songs anytime, anywhere. The service features recurring monthly subscriptions for uninterrupted access to its extensive music library.
@@ -82,4 +81,3 @@ We appreciate your contributions and efforts to improve SharePlay!
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
